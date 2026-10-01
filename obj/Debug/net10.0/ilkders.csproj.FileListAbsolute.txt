@@ -1,0 +1,14 @@
+/Users/logman/Documents/ilkders/bin/Debug/net10.0/ilkders
+/Users/logman/Documents/ilkders/bin/Debug/net10.0/ilkders.deps.json
+/Users/logman/Documents/ilkders/bin/Debug/net10.0/ilkders.runtimeconfig.json
+/Users/logman/Documents/ilkders/bin/Debug/net10.0/ilkders.dll
+/Users/logman/Documents/ilkders/bin/Debug/net10.0/ilkders.pdb
+/Users/logman/Documents/ilkders/obj/Debug/net10.0/ilkders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/logman/Documents/ilkders/obj/Debug/net10.0/ilkders.AssemblyInfoInputs.cache
+/Users/logman/Documents/ilkders/obj/Debug/net10.0/ilkders.AssemblyInfo.cs
+/Users/logman/Documents/ilkders/obj/Debug/net10.0/ilkders.csproj.CoreCompileInputs.cache
+/Users/logman/Documents/ilkders/obj/Debug/net10.0/ilkders.dll
+/Users/logman/Documents/ilkders/obj/Debug/net10.0/refint/ilkders.dll
+/Users/logman/Documents/ilkders/obj/Debug/net10.0/ilkders.pdb
+/Users/logman/Documents/ilkders/obj/Debug/net10.0/ilkders.genruntimeconfig.cache
+/Users/logman/Documents/ilkders/obj/Debug/net10.0/ref/ilkders.dll
